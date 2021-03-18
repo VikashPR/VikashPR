@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vikash
 #### I am a full stack web developer(Learner)
-![I am a full stack web developer(Learner)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2F6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead&psig=AOvVaw3Nsaxo4dL9X6LXdS3uAdWt&ust=1616143646368000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi6jrK6ue8CFQAAAAAdAAAAABAD)
+![I am a full stack web developer(Learner)](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1200%2F1*-YOn0WC2zstDDQ0Qv7al9A.png&imgrefurl=https%3A%2F%2Fmedium.com%2F%40neeleshjjoshi%2Fcreating-a-class-based-vue-web-app-with-firebase-authentication-600e9427966c&tbnid=sReZQ4P6ZsnMZM&vet=12ahUKEwjWhoOJu7nvAhWcnEsFHY2RA40QMygBegUIARCcAQ..i&docid=I0ot3dHvSAmWcM&w=1200&h=630&q=firebase%20vue%20&hl=en&client=safari&ved=2ahUKEwjWhoOJu7nvAhWcnEsFHY2RA40QMygBegUIARCcAQ)
 
 I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing up my skills in Front-End development as well as Back-End.
 
