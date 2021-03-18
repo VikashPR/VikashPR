@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Vikash
 #### I am a full stack web developer(Learner)
-![I am a full stack web developer(Learner)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a full stack web developer(Learner)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fhackernoon.com%2F6-essential-tips-on-how-to-become-a-full-stack-developer-1d10965aaead&psig=AOvVaw3Nsaxo4dL9X6LXdS3uAdWt&ust=1616143646368000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIi6jrK6ue8CFQAAAAAdAAAAABAD)
 
 I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing up my skills in Front-End development as well as Back-End.
 
