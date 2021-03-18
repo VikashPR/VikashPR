@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Vikash
-#### I am a full stack web developer(Learner) and learning <h1>⬇️</h1>
+### Hi there 👋, I'm Vikash
+#### Full stack web developer(Learner) and currently learning <h1>⬇️</h1>
 ![I am a full stack web developer(Learner)](https://miro.medium.com/max/1000/1*-YOn0WC2zstDDQ0Qv7al9A.png)
 
 I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing up my skills in Front-End development as well as Back-End.
