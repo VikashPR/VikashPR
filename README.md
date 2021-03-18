@@ -1,25 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Vikash
+#### I am a full stack web developer(Learner)
+![I am a full stack web developer(Learner)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-I'm Viaksh ,I am working learning WebDev and I'm working and Learning on both Front-End and Back-End devolepment. 
+I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing up my skills in Front-End development as well as Back-End.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash2806)](https://github.com/anuraghazra/github-readme-stats)
+Skills: VUE JS / LARAVEL / JS / HTML / CSS / FIREBASE 
 
-
-
-
+- 🔭 I’m currently working on this page. 
 
 
-<!--
-**vikash2806/vikash2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vikash2806)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vikash2806/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/vikash2806)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash2806)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true)  
+
+
