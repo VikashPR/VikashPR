@@ -1,5 +1,6 @@
 ### Hi there 👋, I'm Vikash
-#### Full stack web learner(Devoleper),Googler <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/google.svg" />,Stackoverflower <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/stackoverflow.svg" /> and currently learning <h1>↓</h1>
+#### I'm Learner , Devoleper , student! 
+## I'm currently Learning <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
 ![I am a full stack web developer(Learner)](https://miro.medium.com/max/1000/1*-YOn0WC2zstDDQ0Qv7al9A.png)
 
 
