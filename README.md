@@ -1,5 +1,10 @@
 ### Hi there 👋, I'm Vikash
 #### I'm Learner , Devoleper , student! 
+- 🔭 I just completed my first semester
+- 🌱 I’m currently learning everything that I can 🥴
+- 👯 I’m looking to collaborate with other dev's
+- 🥅 2021 Goals: To learn <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.JS , <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> Express.Js
+- ⚡ Fun fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> | Iot 
 ## I'm currently Learning <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
 ![I am a full stack web developer(Learner)](https://miro.medium.com/max/1000/1*-YOn0WC2zstDDQ0Qv7al9A.png)
 
@@ -10,18 +15,19 @@ I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing u
 ## Tech I'm into:
 
 <h2 align="center">
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vue-dot-js.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firebase.svg" />
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />
+ 
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+ <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/postman.svg" />
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/laravel.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
+<img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vuetify/vuetify.png" />
  </h2>
 
 ## Social Media:
