@@ -45,6 +45,8 @@ I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing u
    <a href="https://github.com/vikash2806" alt="Github"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'></a>
   <!--Codepen-->
    <a href="https://codepen.io/vikash2806" alt="CodePen"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'></a>
+   <!--linkedin-->
+   <a href="https://www.linkedin.com/in/vikash-pr-086b21193/" alt="Linkedin"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='codepen' height='40'></a>
  </h2>
 
 
