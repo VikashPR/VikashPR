@@ -53,11 +53,10 @@ I have worked on couple of Projects on Laravel , HTML,CSS.... and I'm brushing u
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash2806)](https://github.com/anuraghazra/github-readme-stats)
 
-<details>
-  <summary>:zap: Click to see My GitHub Stats</summary>
+
 
   <img align="left" alt="vikash2806 's Github stats" src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true" />
 
-</details>
+
 
 
