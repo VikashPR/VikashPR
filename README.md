@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning everything that I can 🥴
 - 👯 I’m looking to collaborate with other dev's
 - 🥅 2021 Goals: To learn <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> Node.JS , <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" /> Express.Js
-- ⚡ Fun fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> | Iot 
+- ⚡ Fun fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> | Iot | I Love 💚 Dank Memer
+-  <img height="32" width="32" src="https://dankmemer.lol/40326fed0d1bc75a2688535e70dd31be.png" />
 ## I'm currently Learning <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vue-dot-js.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/vuetify.svg" /> - <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/firebase.svg" />
 ![I am a full stack web developer(Learner)](https://miro.medium.com/max/1000/1*-YOn0WC2zstDDQ0Qv7al9A.png)
 
