@@ -1,7 +1,7 @@
 ### Hey there 👋, I'm Vikash
 #### CS student, FrontEnd dev
 
-- 〔🔭〕 30 Days more to complete Second semester
+- 〔🔭〕 On semester Vacation 
 
 - 🌱 Currently learning VueJs 
 
