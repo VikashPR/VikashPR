@@ -1,13 +1,29 @@
 ### Hey there 👋, I'm Vikash
 #### CS student, FrontEnd dev
 
-- 〔🔭〕 On semester Vacation 
+<!-- - 〔🔭〕 On semester Vacation 
 
 - 🌱 Currently learning VueJs 
 
 - 🎀 Working in startup idea for our start up team 
-
-- 🥅 2021 Goals: To learn  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> VueJs | 
+ -->
+ ```javascript
+const Vikash = {
+    pronouns: "he" | "him",
+    code: [HTML,JS,CSS],
+    askMeAbout: ["web dev",],
+    technologies: {
+        frontEnd: {
+            css: ["VueJs", "Vuetify"]
+        },
+        backEnd: {
+            js: ["firebase"]
+        }        
+    }
+};
+```
+- 🥅 2021 Goals: To learn  
+- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> VueJs | 
  <img height="32" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> monogoDb | <img height="32" width="50" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" />  ThreeJs
 - ⚡ Crazy fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> |  Play DankMemer <img height="32" width="32" src="https://dankmemer.lol/40326fed0d1bc75a2688535e70dd31be.png" />
 
