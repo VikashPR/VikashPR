@@ -12,15 +12,17 @@
  ```javascript
 const Vikash = {
     pronouns: "he" | "him",
-    code: [HTML,JS,CSS],
-    askMeAbout: ["web dev",],
+    code: [HTML,JS,CSS,c/c++],
+    askMeAbout: ["web dev","c/c++"],
     technologies: {
         frontEnd: {
             css: ["VueJs", "Vuetify"]
         },
         backEnd: {
             js: ["firebase"]
-        }        
+        },
+        competitive: {
+           compilerLang: ["C/C++"]
     }
 };
 ```
