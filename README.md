@@ -2,7 +2,7 @@
 
 ☞ 〔⚪️〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔🐵〕CSE Student @``SRMIST``
+☞ 〔🐵〕<a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/CSE%20Student-%40SRMIST-blue)</a>
 
 ☞ 〔🐼〕Frot End DEV  
 
@@ -20,7 +20,7 @@
 const Vikash = {
     pronouns: "he" | "him",
     code: [HTML,JS,CSS,C/C++],
-    askMeAbout: ["web dev","C/C++"],
+    askMeAbout: ["web dev","C/C++","Discord"],
     technologies: {
         frontEnd: {
             Js: ["VueJs", "Vuetify"]
