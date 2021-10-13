@@ -37,6 +37,7 @@ const Vikash = {
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 
 ### Front End:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -56,8 +57,8 @@ const Vikash = {
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)    
+### Github Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=radical&row=2&column=4&margin-w=20&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy )   
 
 <!-- - 🥅 2021 Goals: To learn  
 -  VueJs | 
