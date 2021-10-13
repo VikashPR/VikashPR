@@ -70,7 +70,7 @@ const Vikash = {
 ### Github Stats:
  <img align="center" alt="vikash2806 's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" />
   <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" />
-<img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash2806&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
+<img align="center" width='490'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash2806&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
 
 
 
