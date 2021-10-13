@@ -88,7 +88,7 @@ const Vikash = {
 
 
 
-  <img align="left" alt="vikash2806 's Github stats" src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" />
+ <img align="left" alt="vikash2806 's Github stats" width='460' src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" /><img width='460' align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" />
 
 
 
