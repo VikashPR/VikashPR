@@ -1,4 +1,8 @@
-###  Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash
+###  <p align="center">Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
+
+<p align="center">
+  <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student,%20web%20Dev%20;Self-taught%20Front%20End%20Dev;1%2B%20years%20of%20coding%20experience;Learning%20from%20failures%20daily&font=Fira%20Code&center=true&width=500&height=45&color=FA26A0&vCenter=true&size=26"></a>
+</p>
 
 ☞ 〔⚪️〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
