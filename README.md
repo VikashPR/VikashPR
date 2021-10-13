@@ -1,16 +1,16 @@
 ### Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash
 
-☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+☞ 〔⚪️〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔 🐵 〕CSE Student @SRMIST
+☞ 〔🐵〕CSE Student @SRMIST
 
-☞ 〔 🐼 〕Frot End DEV  
+☞ 〔🐼〕Frot End DEV  
 
-☞ 〔 🤾🏼‍♂️ 〕18 
+☞ 〔🤾🏼‍♂️〕18 
 
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 〕Vue Simp
+☞ 〔<img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/>〕Vue Simp
 
-☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikash2806.vikash2806)
+☞ 〔👀〕![](https://visitor-badge.glitch.me/badge?page_id=vikash2806.vikash2806)
 
  ```javascript
 const Vikash = {
