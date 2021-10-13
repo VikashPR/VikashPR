@@ -1,19 +1,19 @@
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vikash
-#### CS student, FrontEnd dev
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+### Yo, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vikash
+
+☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
+
+☞ 〔 🐵 〕CSE Student @SRMIST
+
+☞ 〔 🐼 〕Frot End DEV  
+
+☞ 〔 🤾🏼‍♂️ 〕18 
 
 
-<!-- - 〔🔭〕 On semester Vacation 
-
-- 🌱 Currently learning VueJs 
-
-- 🎀 Working in startup idea for our start up team 
- -->
  ```javascript
 const Vikash = {
     pronouns: "he" | "him",
-    code: [HTML,JS,CSS,c/c++],
-    askMeAbout: ["web dev","c/c++"],
+    code: [HTML,JS,CSS,C/C++],
+    askMeAbout: ["web dev","C/C++"],
     technologies: {
         frontEnd: {
             css: ["VueJs", "Vuetify"]
@@ -26,6 +26,8 @@ const Vikash = {
     }
 };
 ```
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🥅 2021 Goals: To learn  
 - <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> VueJs | 
  <img height="32" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> monogoDb | <img height="32" width="50" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" />  ThreeJs
