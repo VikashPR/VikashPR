@@ -1,5 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vikash
 #### CS student, FrontEnd dev
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <!-- - 〔🔭〕 On semester Vacation 
 
