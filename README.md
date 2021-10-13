@@ -10,6 +10,7 @@
 
 ☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 〕Vue Simp
 
+☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikash2806.vikash2806)
 
  ```javascript
 const Vikash = {
@@ -18,10 +19,10 @@ const Vikash = {
     askMeAbout: ["web dev","C/C++"],
     technologies: {
         frontEnd: {
-            css: ["VueJs", "Vuetify"]
+            Js: ["VueJs", "Vuetify"]
         },
         backEnd: {
-            js: ["firebase"]
+            Js: ["firebase"]
         },
         competitive: {
            compilerLang: ["C/C++"]
