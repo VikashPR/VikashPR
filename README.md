@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Vikash
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Vikash
 #### CS student, FrontEnd dev
 
 <!-- - 〔🔭〕 On semester Vacation 
