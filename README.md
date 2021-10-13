@@ -8,6 +8,8 @@
 
 ☞ 〔 🤾🏼‍♂️ 〕18 
 
+☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> 〕Vue Simp
+
 
  ```javascript
 const Vikash = {
@@ -29,7 +31,7 @@ const Vikash = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🥅 2021 Goals: To learn  
-- <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> VueJs | 
+-  VueJs | 
  <img height="32" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> monogoDb | <img height="32" width="50" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" />  ThreeJs
 - ⚡ Crazy fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> |  Play DankMemer <img height="32" width="32" src="https://dankmemer.lol/40326fed0d1bc75a2688535e70dd31be.png" />
 
