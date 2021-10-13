@@ -68,11 +68,9 @@ const Vikash = {
 - ⚡ Crazy fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> |  Play DankMemer <img height="32" width="32" src="https://dankmemer.lol/40326fed0d1bc75a2688535e70dd31be.png" /> -->
 
 ### Github Stats:
- <img align="left" alt="vikash2806 's Github stats" width='460' src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" /><img width='460' align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" />
-
- 
-
-
+ <img align="center" alt="vikash2806 's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" />
+  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" />
+<img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash2806&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
 
 
 
