@@ -3,6 +3,12 @@
 <p align="center">
   <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student,%20web%20Dev%20;Self-taught%20Front%20End%20Dev;1%2B%20years%20of%20coding%20experience;Learning%20from%20failures%20daily&font=Fira%20Code&center=true&width=500&height=45&color=FA26A0&vCenter=true&size=26"></a>
 </p>
+<p align="center">
+  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/clouds/80/000000/instagram-new--v2.png" ><a/>
+  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/clouds/80/000000/linkedin.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/github.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/discord-logo.png"/><a/>
+</p>
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
@@ -15,6 +21,7 @@
 ☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
 
 ☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikash2806.vikash2806)
+
 
 <br>
 
