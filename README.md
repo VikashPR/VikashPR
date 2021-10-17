@@ -3,16 +3,7 @@
 <p align="center"> 
   <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student,%20web%20Dev%20;Self-taught%20Front%20End%20Dev;1%2B%20years%20of%20coding%20experience;Learning%20from%20failures%20daily&font=Fira%20Code&center=true&width=500&height=45&color=FA26A0&vCenter=true&size=26"></a>
 </p>
-<p align="center">
-  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/clouds/80/000000/instagram-new--v2.png" ><a/>
-  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/clouds/80/000000/linkedin.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/github.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/discord-logo.png"/><a/>
-</p>
- 
-  
-  
-  
+
  <p align="center">
   <a href="https://www.instagram.com/viki_sam_/"> <img src="assets/2.gif"><a/>
   <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="assets/8.gif"><a/>
@@ -87,6 +78,14 @@ const Vikash = {
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
+
+### Social Media:
+ <p align="center">
+  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/clouds/80/000000/instagram-new--v2.png" ><a/>
+  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/clouds/80/000000/linkedin.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/github.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/discord-logo.png"/><a/>
+</p>
 
 ### Github Trophies:
 
