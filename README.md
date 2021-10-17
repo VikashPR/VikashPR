@@ -26,7 +26,8 @@
 <br>
 
 
-
+### aboutMe.Js:
+    
  ```javascript
 const Vikash = {
     pronouns: "he" | "him",
@@ -37,7 +38,7 @@ const Vikash = {
             Js: ["VueJs", "Vuetify"]
         },
         backEnd: {
-            Js: ["firebase"]
+            BasS: ["firebase"]
         },
         competitive: {
            compilerLang: ["C/C++"]
