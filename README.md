@@ -9,10 +9,16 @@
   <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/github.png"/><a/>
   <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/discord-logo.png"/><a/>
 </p>
-  <img src="assets/2.gif">
-  <img src="assets/8.gif">
-  <img src="assets/0.gif">
-  <img src="assets/6.gif">
+ 
+  
+  
+  
+ <p align="center">
+  <a href="https://www.instagram.com/viki_sam_/"> <img src="assets/2.gif"><a/>
+  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="assets/8.gif"><a/>
+  <a href="https://github.com/vikash2806"><img src="assets/0.gif"><a/>
+  <a href="https://github.com/vikash2806"><img src="assets/6.gif"><a/>
+</p>
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
