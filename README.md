@@ -5,15 +5,15 @@
 </p>
 
  <p align="center">
-  <a href="https://www.instagram.com/viki_sam_/"> <img src="assets/2.gif"><a/>
-  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="assets/8.gif"><a/>
-  <a href="https://github.com/vikash2806"><img src="assets/0.gif"><a/>
-  <a href="https://github.com/vikash2806"><img src="assets/6.gif"><a/>
+  <a href="#"> <img src="assets/2.gif"><a/>
+  <a href="#"><img src="assets/8.gif"><a/>
+  <a href="#"><img src="assets/0.gif"><a/>
+  <a href="#"><img src="assets/6.gif"><a/>
 </p>
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔 🐵 〕 <a href="#">![Weblicious](https://img.shields.io/badge/FrontDev-%40webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/CSE%20Student-%40SRMIST-blue)</a>
+☞ 〔 🐵 〕 <a href="#">![Weblicious](https://img.shields.io/badge/Team-%40webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/CSE%20Student-%40SRMIST-blue)</a>
 
 ☞ 〔 🐼 〕Frot End DEV
 
@@ -31,7 +31,7 @@
 const Vikash = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C/C++],
-   askMeAbout: ["web dev","C/C++","Discord"],
+   askMeAbout: ["Web Dev","C/C++","Discord"],
    technologies: {
        frontEnd: {
            Js: ["VueJs", "Vuetify"]
