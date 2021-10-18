@@ -13,7 +13,7 @@
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔 🐵 〕 <a href="#">![Weblicious](https://img.shields.io/badge/Team-%40webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
+☞ 〔 🐵 〕 <a href="#">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
 
 ☞ 〔 🐼 〕Frot End DEV
 
