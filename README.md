@@ -82,20 +82,19 @@ const Vikash = {
 
 ### Social Media:
  <p align="center">
-  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/clouds/80/000000/instagram-new--v2.png" ><a/>
-  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/clouds/80/000000/linkedin.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/github.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/clouds/80/000000/discord-logo.png"/><a/>
+  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
+  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
+  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/discord-new-logo.png"/><a/>
+    <a href="https://stackoverflow.com/users/14201913/vikash2806"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
+      <a href="https://stackoverflow.com/users/14201913/vikash2806"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
+      
+    
 </p>
 
 ### Github Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!-- - 🥅 2021 Goals: To learn
--  VueJs |
- <img height="32" width="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" /> monogoDb | <img height="32" width="50" src="https://user-images.githubusercontent.com/5307958/38454395-eba34a8a-3a90-11e8-9c95-680a7aea037f.png" />  ThreeJs
-- ⚡ Crazy fact: I Love Electronics |  <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" /> |  Play DankMemer <img height="32" width="32" src="https://dankmemer.lol/40326fed0d1bc75a2688535e70dd31be.png" /> -->
 
 ### Github Stats:
 
