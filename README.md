@@ -33,7 +33,7 @@
 const Vikash = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C/C++],
-   askMeAbout: ["Web Dev","C/C++","Discord"],
+   askMeAbout: ["Web Dev","C/C++","Discord","IOT"],
    technologies: {
        frontEnd: {
            Js: ["VueJs", "Vuetify"]
