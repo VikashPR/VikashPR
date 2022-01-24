@@ -1,4 +1,4 @@
-### <p align="center">Yo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
 
 <p align="center"> 
   <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student,Developer,Athlete%20;Self-Taught%20FrontEnd%20Dev&font=Fira%20Code&center=true&width=500&height=45&color=FA26A0&vCenter=true&size=26"></a>
