@@ -86,9 +86,11 @@ const Vikash = {
   <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
   <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
   <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
+  <a href="https://twitter.com/Vikash11430482"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/><a/>
   <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/discord-new-logo.png"/><a/>
   <a href="https://stackoverflow.com/users/14201913/vikash2806"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
+  
       
     
 </p>
