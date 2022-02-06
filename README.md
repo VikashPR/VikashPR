@@ -1,11 +1,8 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
 
 <p align="center"> 
-  <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student,Developer,Athlete%20;Self-Taught%20FrontEnd%20Dev&font=Fira%20Code&center=true&width=500&height=45&color=FA26A0&vCenter=true&size=26"></a>
-<!--   ;Learning%20from%20failures%20daily -->
-<!--   1%2B%20years%20of%20coding%20experience; -->
+  <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&lines=Student+%2F+Developer+%2F+Athlete;%F0%9F%9A%80+FrontEnd+developer;%F0%9F%96%A5+Active+Open+Source+Contributor"></a>
 </p>
-
  <p align="center">
   <a href="#"> <img src="assets/2.gif"><a/>
   <a href="#"><img src="assets/8.gif"><a/>
