@@ -1,7 +1,7 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
 
 <p align="center"> 
-  <a href="https://github.com/vikash2806"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&lines=Student+%2F+Developer+%2F+Athlete;%F0%9F%9A%80+FrontEnd+developer;%F0%9F%96%A5+Active+Open+Source+Contributor"></a>
+  <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&lines=Student+%2F+Developer+%2F+Athlete;%F0%9F%9A%80+FrontEnd+developer;%F0%9F%96%A5+Active+Open+Source+Contributor"></a>
 </p>
  <p align="center">
   <a href="#"> <img src="assets/2.gif"><a/>
