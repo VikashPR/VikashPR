@@ -20,7 +20,7 @@
 
 ☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
 
-☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikash2806.vikash2806)
+☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikashpr.vikashpr)
 
 <br>
 
@@ -94,13 +94,13 @@ const Vikash = {
 
 ### Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikash2806&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Github Stats:
 
 <p align="left"> <img align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> </p>
- <p align="left"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" /></p>
-<p align="left"> <img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash2806&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
+ <p align="left"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" /></p>
+<p align="left"> <img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
 
 <p align="center"> <img  src="https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="Vikash's Github Graph" /> </p>
 
