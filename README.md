@@ -82,10 +82,10 @@ const Vikash = {
  <p align="center">
   <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
   <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
+  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
   <a href="https://twitter.com/Vikash11430482"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/><a/>
-  <a href="https://github.com/vikash2806"><img src="https://img.icons8.com/fluency/50/000000/discord-new-logo.png"/><a/>
-  <a href="https://stackoverflow.com/users/14201913/vikash2806"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
+  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/fluency/50/000000/discord-new-logo.png"/><a/>
+  <a href="https://stackoverflow.com/users/14201913/vikashpr"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
   
       
@@ -98,11 +98,11 @@ const Vikash = {
 
 ### Github Stats:
 
-<p align="left"> <img align="center" alt="vikash2806 's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikash2806&show_icons=true&count_private=true&theme=radical" /> </p>
+<p align="left"> <img align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> </p>
  <p align="left"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash2806&theme=radical" alt="Vikash2806 Streak" /></p>
 <p align="left"> <img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikash2806&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
 
-<p align="center"> <img  src="https://activity-graph.herokuapp.com/graph?username=vikash2806&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="Vikash's Github Graph" /> </p>
+<p align="center"> <img  src="https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="Vikash's Github Graph" /> </p>
 
 ### Watch my contribution graph get eaten by the snake 🐍:
 
