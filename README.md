@@ -87,14 +87,14 @@ const Vikash = {
   <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/fluency/50/000000/discord-new-logo.png"/><a/>
   <a href="https://stackoverflow.com/users/14201913/vikashpr"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
-  
-      
-    
 </p>
 
 ### Github Trophies:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+	<img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy">
+</p>
+
 
 ### Github Stats:
 
