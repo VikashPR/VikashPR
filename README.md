@@ -98,9 +98,15 @@ const Vikash = {
 
 ### Github Stats:
 
-<p align="left"> <img align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> </p>
- <p align="left"> <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" /></p>
-<p align="left"> <img align="center" width='500'  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
+<p align="center"> 
+	<img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> 
+</p>
+	  
+ <p align="center"> 
+	 <img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" />
+</p>
+	  
+<p align="center"> <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
 
 <p align="center"> <img  src="https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=1F222E&color=FF0075&line=77D970&point=FFFFFF&hide_border=false" alt="Vikash's Github Graph" /> </p>
 
