@@ -20,7 +20,7 @@
 
 ☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
 
-☞ 〔 👀 〕![](https://visitor-badge.glitch.me/badge?page_id=vikashpr.vikashpr)
+☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
 
 <br>
 
