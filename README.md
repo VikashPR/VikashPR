@@ -1,4 +1,4 @@
-### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash</p>
+### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Vikash PR</p>
 
 <p align="center"> 
   <a href="https://github.com/vikashPR"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&lines=Student+%2F+Developer+%2F+Athlete;%F0%9F%9A%80+FrontEnd+developer;%F0%9F%96%A5+Active+Open+Source+Contributor"></a>
@@ -72,7 +72,14 @@ const Vikash = {
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+### Utility:
+
+![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Preetier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3)
+
 ### Persnol Setup:
+
 ![Intel i5](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Samsung](https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)
