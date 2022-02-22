@@ -106,7 +106,6 @@ const Vikash = {
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
 </p>
 
-
 ### Github Trophies:
 
 <p align="center">
@@ -125,12 +124,6 @@ const Vikash = {
 </p>
 	  
 <p align="center"> <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" /> </p>
-
-<p align="center">
-	
-![Metrics](https://metrics.lecoq.io/vikashpr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&topics=1&habits=1&traffic=1&topics.mode=starred&topics.sort=stars&topics.limit=15&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&traffic.skipped=VikashPR%2CVikashPR.com&pagespeed.url=vikaash2806-dev.web.app&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta)
-	
-</p>
 
 ### Github contribution:
 	  
