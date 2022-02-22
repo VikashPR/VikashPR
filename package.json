@@ -1,0 +1,23 @@
+{
+  "name": "vikashpr",
+  "version": "1.0.0",
+  "description": "<p align=\"center\">    <a href=\"https://github.com/vikashPR\"><img src=\"https://readme-typing-svg.herokuapp.com?font=Quicksand&color=%23F50B58&center=true&vCenter=true&lines=Student+%2F+Developer+%2F+Athlete;%F0%9F%9A%80+FrontEnd+developer;%F0%9F%96%A5+Active+Open+Source+Contributor\"></a> </p>  <p align=\"center\">   <a href=\"#\"> <img src=\"assets/2.gif\"><a/>   <a href=\"#\"><img src=\"assets/8.gif\"><a/>   <a href=\"#\"><img src=\"assets/0.gif\"><a/>   <a href=\"#\"><img src=\"assets/6.gif\"><a/> </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VikashPR/VikashPR.git"
+  },
+  "keywords": [],
+  "author": "VikashPR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VikashPR/VikashPR/issues"
+  },
+  "homepage": "https://github.com/VikashPR/VikashPR#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
