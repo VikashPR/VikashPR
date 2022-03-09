@@ -108,10 +108,10 @@ const Vikash = {
 </p>
 
 ### VikashPR.com PageSpeed:
-<p align="center"><img  width="450em"   src="https://metrics.lecoq.io/vikashpr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&pagespeed.url=vikashpr.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="Vikash2806 Streak" /></p>
+<p align="center"><img  width="450em"   src="https://metrics.lecoq.io/vikashpr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&notable=1&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&pagespeed.url=vikashpr.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="VikashPR.com Pagespeed" /></p>
 
-<p align="center"><img  width="450em"   src="https://metrics.lecoq.io/vikashpr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FCalcutta" alt="Vikash2806 Streak" /></p>
-
+<p align="center"><img  width="450em"   src="https://metrics.lecoq.io/vikashpr?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FCalcutta" alt="VikashPR Notable Contribution" /></p>
+	  
 ### Github Stats:
 
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
