@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: vikashpr
