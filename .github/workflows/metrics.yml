@@ -12,14 +12,23 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Current configuration doesn't require a GitHub token
-          token: NOT_NEEDED
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: vikashpr
           template: classic
           base: ""
           config_timezone: Asia/Calcutta
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
           plugin_pagespeed_url: vikashpr.com
