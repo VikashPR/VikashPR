@@ -108,7 +108,7 @@ const Vikash = {
 </p>
 
 ### VikashPR.com PageSpeed:
-<p align="center"><img  width="450em"   src="https://metrics.lecoq.io/vikashpr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&pagespeed=1&notable=1&notable.from=all&notable.repositories=false&notable.indepth=false&notable.types=commit&pagespeed.url=vikashpr.com&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta" alt="VikashPR.com Pagespeed" /></p>
+<p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p>
 
 	  
 ### Github Stats:
