@@ -28,7 +28,7 @@ jobs:
           base: ""
           config_timezone: Asia/Calcutta
           plugin_notable: yes
-          plugin_notable_from: all
+          plugin_notable_from: organization
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
