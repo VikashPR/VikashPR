@@ -31,4 +31,5 @@ jobs:
           plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           plugin_pagespeed_url: vikashpr.com
