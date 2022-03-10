@@ -108,7 +108,7 @@ const Vikash = {
 </p>
 
 ### VikashPR.com PageSpeed:
-<p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p>
+ <a target="_blank" href="https://vikashpr.com"><p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p><a/>
 
 	  
 ### Github Stats:
