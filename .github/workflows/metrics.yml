@@ -12,7 +12,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.pagespeed-detailed.svg
+          filename: metrics/pagespeed-detailed.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
