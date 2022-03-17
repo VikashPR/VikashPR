@@ -28,7 +28,7 @@
 ### aboutMe.Js:
 
 ```javascript
-const Vikash = {
+const VikashPR = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C/C++],
    askMeAbout: ["Web Development","C/C++","Discord","IOT"],
