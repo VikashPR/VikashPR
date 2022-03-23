@@ -10,6 +10,8 @@
   <a href="#"><img src="assets/0.gif"><a/>
   <a href="#"><img src="assets/6.gif"><a/>
 </p>
+	  
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
