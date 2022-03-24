@@ -111,7 +111,7 @@ const VikashPR = {
 
 ### VikashPR.com speed:
 
-<img width="50%" src="metrics/pagespeed-detailed.svg">   <img  width="50%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
+<img width="46%" src="metrics/pagespeed-detailed.svg">   <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
 
 ### Github Stats:
 
