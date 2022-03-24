@@ -110,9 +110,14 @@ const VikashPR = {
 </p>
 
 ### VikashPR.com PageSpeed:
- <a target="_blank" href="https://vikashpr.com"><p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p><a/>
 
-	  
+ <a target="_blank" href="https://vikashpr.com"><p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p><a/>
+	 
+### VikashPR Coding Habits:
+
+<p align="center"><img  width="450em"   src="metrics/coding_habits.svg" alt="VikashPR.com Pagespeed" /></p>
+
+
 ### Github Stats:
 
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
