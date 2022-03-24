@@ -109,21 +109,15 @@ const VikashPR = {
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
 </p>
 
-### VikashPR.com PageSpeed:
+### VikashPR.com speed:
 
- <a target="_blank" href="https://vikashpr.com"><p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p><a/>
-	 
-### VikashPR Coding Habits:
-
-<p align="center"><img  width="450em"   src="metrics/coding_habits.svg" alt="VikashPR.com Pagespeed" /></p>
-
+<img width="450em" src="metrics/pagespeed-detailed.svg">   <img  width="450em" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
 
 ### Github Stats:
 
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
 :-------------------------:|:-------------------------:
 <img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> 
-
 
 
 
