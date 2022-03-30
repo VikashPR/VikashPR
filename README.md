@@ -10,10 +10,12 @@
   <a href="#"><img src="assets/0.gif"><a/>
   <a href="#"><img src="assets/6.gif"><a/>
 </p>
+	  
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 ☞ 〔 ⚪️ 〕🎀 Pink is Sweet 🎀 | 🌹 Rose is red
 
-☞ 〔 🐵 〕 <a href="#">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
+☞ 〔 🐵 〕 <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
 
 ☞ 〔 🐼 〕Frot End DEV
 
@@ -28,7 +30,7 @@
 ### aboutMe.Js:
 
 ```javascript
-const Vikash = {
+const VikashPR = {
    pronouns: "he" | "him",
    code: [HTML,JS,CSS,C/C++],
    askMeAbout: ["Web Development","C/C++","Discord","IOT"],
@@ -67,18 +69,19 @@ const Vikash = {
 ### Front End FrameWork:
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white)
+<!-- ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) -->
 
 ### Backend End:
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![DialogFlow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+
 
 ### Utility:
 
 ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Preetier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3)
-
 ### Persnol Setup:
 
 ![Intel i5](https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
@@ -107,16 +110,15 @@ const Vikash = {
   <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
 </p>
 
-### VikashPR.com PageSpeed:
- <a target="_blank" href="https://vikashpr.com"><p align="center"><img  width="450em"   src="metrics/pagespeed-detailed.svg" alt="VikashPR.com Pagespeed" /></p><a/>
+### VikashPR.com speed:
 
-	  
+<img width="46%" src="metrics/pagespeed-detailed.svg">   <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
+
 ### Github Stats:
 
 <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=radical&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> |  <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=radical" alt="Vikash's Most used lang" />
 :-------------------------:|:-------------------------:
 <img  width="450em"   src="https://github-readme-streak-stats.herokuapp.com/?user=vikashpr&theme=radical" alt="Vikash2806 Streak" /> | <img  width="450em" align="center" alt="vikash's Github stats"  src="https://github-readme-stats.vercel.app/api?username=vikashpr&show_icons=true&count_private=true&theme=radical" /> 
-
 
 
 
