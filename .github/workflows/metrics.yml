@@ -1,4 +1,4 @@
-# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+## Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
@@ -9,28 +9,27 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/pagespeed-detailed.svg
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
           # The following additional scopes may be required:
-          #  - read:org  (for organization related metrics)
-          #  - read:user (for user related data)
-          #  - repo      (optional, if you want to include private repositories)
+          #  - read:org      (for organization related metrics)
+          #  - read:user     (for user related data)
+          #  - read:packages (for some packages related data)
+          #  - repo          (optional, if you want to include private repositories)
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: vikashpr
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Calcutta
-          plugin_notable: yes
-          plugin_notable_from: organization
-          plugin_notable_types: commit
           plugin_pagespeed: yes
           plugin_pagespeed_detailed: yes
-          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
-          plugin_pagespeed_url: https://vikashpr.com
+          plugin_pagespeed_screenshot: yes
+          plugin_pagespeed_url: VikashPR.com
