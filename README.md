@@ -113,9 +113,8 @@ const VikashPR = {
 
 ### Github contribution:
 	  
-<h4 align="center">My contribution graph</h4>
-	 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-<p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p>
+<!--<p><h4 align="center">My contribution graph</h4></p>-->
+<!-- <p align="center"> <img width="900em" src="https://activity-graph.herokuapp.com/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> -->
 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
