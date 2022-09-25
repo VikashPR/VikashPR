@@ -32,17 +32,18 @@
 ```javascript
 const VikashPR = {
    pronouns: "he" | "him",
-   code: [HTML,JS,CSS,C/C++],
-   askMeAbout: ["Web Development","C/C++","Discord","IOT"],
+   code: [HTML,JS,CSS,C/C++,PYTHON],
+   askMeAbout: ["Web Development","Cycle","Discord","IOT"],
    technologies: {
        frontEnd: {
-           Js: ["VueJs", "Vuetify"]
+           Js: ["VueJs", "ReactJs", "NextJs", "NuxtJs"]
        },
        backEnd: {
            BasS: ["firebase"]
        },
        competitive: {
-          compilerLang: ["C/C++"]
+          compilerLang: ["C/C++"],
+	  InterpretedLang: ["PYTHON"]
    }
 };
 ```
