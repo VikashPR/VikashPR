@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="345" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="327" class="">
     <defs>
         <style/>
     </defs>
@@ -186,43 +186,38 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
+                                <span class="name">TypeScript</span>
+                                <div class="bar" style="width: 21.559970566593087%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 16.13836017569546%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 16.221486387049303%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">20%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 11.775256222547583%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">15%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">TSX</span>
-                                <div class="bar" style="width: 10.084187408491946%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">13%</span>
-                            </div>
-                            <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 5.450219619326501%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.478292862398822%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Jupyter Notebook</span>
-                                <div class="bar" style="width: 2.664714494875549%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.678440029433407%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">C</span>
-                                <div class="bar" style="width: 1.7093704245973647%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.7181751287711553%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Vue</span>
-                                <div class="bar" style="width: 0.5856515373352855%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5886681383370125%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.2964860907759883%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.29801324503311255%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
