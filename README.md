@@ -119,7 +119,7 @@ const VikashPR = {
 <p align="center"> <img width="900em" src="https://github-readme-activity-graph.cyclic.app/graph?username=vikashpr&bg_color=01010f&color=f5f5fe&line=ed4a7c&point=45994a&area=true&hide_border=true" alt="Vikash's Github Graph" /> </p> 
 <h4 align="center">Watch my contribution graph get eaten by the snake 🐍</h4>
 
-<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/vikash2806/vikash2806/blob/output/github-contribution-grid-snake.svg" /> </p>
+<p align="center"> <img  width="900em" alt="vikash2806's Github comitte snake"  src="https://github.com/VikashPR/VikashPR/blob/output/github-contribution-grid-snake-dark.svg" /> </p>
     
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 	  
