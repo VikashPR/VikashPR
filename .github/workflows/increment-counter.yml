@@ -1,0 +1,20 @@
+name: Increment Counter
+
+on:
+  repository_dispatch:
+    types: [increment-counter]
+
+jobs:
+  increment-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Increment counter
+        run: |
+          sed -i 's/My Counter: \([0-9]*\)/My Counter: $((\1+1))/g' counter.txt
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Increment counter"
+          commit_options: "--no-verify"
