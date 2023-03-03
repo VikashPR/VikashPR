@@ -89,18 +89,6 @@ const VikashPR = {
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Github Actions](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![FreecodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 
-### Social Media:
-
- <p align="center">
-  <a href="https://www.instagram.com/viki_sam_/"><img src="https://img.icons8.com/fluency/50/000000/instagram-new.png"/><a/>
-  <a href="https://www.linkedin.com/in/vikash-pr-086b21193/"><img src="https://img.icons8.com/fluency/50/000000/linkedin.png"/><a/>
-  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/fluency/50/000000/github.png"/><a/>
-  <a href="https://twitter.com/Vikash11430482"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/><a/>
-  <a href="https://github.com/vikashpr"><img src="https://img.icons8.com/color/50/000000/discord--v2.png"/><a/>
-  <a href="https://stackoverflow.com/users/14201913/vikashpr"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"/><a/>
-  <a href="mailto:vikashrajendran2806@gmail.com?subject=Github profile Visit"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/><a/>
-</p>
-
 ### VikashPR.com speed:
 
 <img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
