@@ -36,7 +36,7 @@ const VikashPR = {
    askMeAbout: ["Web Development","Cycle","Discord","IOT"],
    technologies: {
        frontEnd: [
-           Js: {"VueJs", "ReactJs", "NextJs", "NuxtJs"}
+           Js: {"Vue.js", "React.js", "Next.js", "Nuxt.js"}
        ],
        backEnd: [
            BasS: {"firebase"}
