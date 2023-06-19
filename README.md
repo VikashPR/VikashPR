@@ -114,8 +114,6 @@ const VikashPR = {
 <h4 align="center">Isometric view of contributions in the last year.</h4>
 
 -->
-
-![Metrics](https://beta-metrics.lecoq.io/VikashPR?template=classic&starlists=1&topics=1&followup=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&topics=false&topics.mode=icons&topics.sort=stars&topics.limit=15&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&starlists=false&starlists.limit=2&starlists.limit.repositories=2&starlists.languages=false&starlists.limit.languages=8&starlists.shuffle.repositories=true&config.timezone=Asia%2FCalcutta)
 	  
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
