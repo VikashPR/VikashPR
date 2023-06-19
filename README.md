@@ -32,19 +32,20 @@
 ```javascript
 const VikashPR = {
    pronouns: "he" | "him",
-   code: [HTML,JS,CSS,C/C++,PYTHON],
-   askMeAbout: ["Web Development","Cycle","Discord","IOT"],
+   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
+   askMeAbout: ["Web Development", "Cycling", "Discord", "IoT"],
    technologies: {
-       frontEnd: [
-           Js: {"Vue.js", "React.js", "Next.js", "Nuxt.js"}
-       ],
-       backEnd: [
-           BasS: {"firebase"}
-       ],
-       competitive: [
-           CompilerLang: {"C/C++"},
-	   InterpretedLang: {"PYTHON"}
-   ]
+       frontEnd: {
+           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+       },
+       backEnd: {
+           basS: ["Firebase"]
+       },
+       competitive: {
+           compilerLang: ["C/C++"],
+           interpretedLang: ["PYTHON"]
+       }
+   }
 };
 ```
 
