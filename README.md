@@ -94,8 +94,6 @@ const VikashPR = {
 
 <img width="46%" src="metrics/pagespeed-detailed.svg"> <img  width="46%" src="metrics/coding_habits.svg" alt="Vikash's Most used lang" />
 
-https://streak-stats.demolab.com?user=VikashPR
-
 ### Github Stats:
 
 | <img width="450em" src="https://github-profile-trophy.vercel.app/?username=vikashpr&theme=onestar&row=2&column=4&margin-w=10&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy"> | <img  width="450em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikashpr&show_icons=true&locale=en&layout=compact&theme=vue-dark" alt="Vikash's Most used lang" /> |
