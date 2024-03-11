@@ -21,7 +21,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 🐼 〕Frot End DEV
 
-☞ 〔 🤾 〕19
+☞ 〔 🤾 〕20
 
 ☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
 
