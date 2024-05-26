@@ -1,8 +1,13 @@
 ### <p align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> I'm Vikash PR</p>
+<p align="center">
+<img width="270" src="https://github.com/VikashPR/VikashPR/assets/69889418/f749b025-1d9a-46a8-9bd0-5182c570551e">
+</p>
 
 <p align="center"> 
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
 </p>
+
+
 
 <br/>
 
