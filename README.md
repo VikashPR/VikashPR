@@ -7,8 +7,6 @@
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
 </p>
 
-
-
 <br/>
 
  <p align="center">
@@ -24,11 +22,11 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 🐵 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
 
-☞ 〔 🐼 〕Frot End DEV
+☞ 〔 🐼 〕Web Development - DevOps - Machine Learning 
 
 ☞ 〔 🤾 〕20
 
-☞ 〔 <img height="18" width="18" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"/> 〕Vue Simp
+☞ 〔 :octocat: 〕Github Simp
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
 
