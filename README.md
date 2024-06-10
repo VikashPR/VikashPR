@@ -22,13 +22,13 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 🐵 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.srmist.edu.in">![SRMIST](https://img.shields.io/badge/Student-%40SRMIST-blue)</a>
 
-☞ 〔 🐼 〕Web Development - DevOps - Machine Learning 
-
 ☞ 〔 🤾 〕20
 
 ☞ 〔 :octocat: 〕Github Simp
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
+
+☞ 〔 🐼 〕Web Development - DevOps - Machine Learning 
 
 <br>
 
