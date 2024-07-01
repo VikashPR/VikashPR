@@ -28,7 +28,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
 
-☞ 〔 🐼 〕Web Development - DevOps - Machine Learning 
+☞ 〔 🐼 〕Web Development - DevOps
 
 <br>
 
