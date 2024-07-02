@@ -22,7 +22,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 🐵 〕 <!-- <a href="https://www.webilicious.in/">![Weblicious](https://img.shields.io/badge/Team-%40Webilicious-brightgreen)</a> --> <a href="https://www.sc.com/en/">![Standard Charted](https://img.shields.io/badge/Software%20Engineer-%40Standard%20Charted-brightgreen)</a>
 
-☞ 〔 🤾 〕20
+☞ 〔 🤾 〕21
 
 ☞ 〔 :octocat: 〕Github Simp
 
