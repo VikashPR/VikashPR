@@ -37,8 +37,8 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 ```javascript
 const VikashPR = {
    pronouns: "he" | "him",
-   code: ["HTML", "JS", "CSS", "C/C++", "PYTHON"],
-   askMeAbout: ["Software Development", "DevOps", "Cloud", "IoT"],
+   code: ["JS", "PYTHON"],
+   askMeAbout: ["Software Engineering", "DevOps", "Reserch", "IoT"],
    technologies: {
        frontEnd: {
            js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
