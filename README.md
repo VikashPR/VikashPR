@@ -41,7 +41,7 @@ const VikashPR = {
    askMeAbout: ["Software Engineering", "DevOps", "Reserch", "IoT"],
    technologies: {
        frontEnd: {
-           js: ["Vue.js", "React.js", "Next.js", "Nuxt.js"]
+           js: ["Vue.js", "React.js", "Next.js", "Springboot"]
        },
        backEnd: {
            basS: ["Firebase"]
