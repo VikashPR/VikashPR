@@ -187,8 +187,8 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TSX</span>
-                                <div class="bar" style="width: 15.644895142659987%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 21.443742696471343%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">27%</span>
                             </div>
                         </div>
                     </section>
