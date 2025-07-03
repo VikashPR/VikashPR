@@ -10,7 +10,6 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 <br/>
 
-
  <p align="center">
   <a href="#"> <img src="assets/2.gif"><a/>
   <a href="#"><img src="assets/8.gif"><a/>
