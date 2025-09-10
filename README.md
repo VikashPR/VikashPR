@@ -6,7 +6,7 @@
 
 <p align="center"> 
 I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>spare time</del> full time 🙃
-</p>
+</p> 
 
 <br/>
 
