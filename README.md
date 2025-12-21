@@ -55,7 +55,7 @@ const VikashPR = {
 };
 ```
 
-<img  width="450em" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=vikashpr&theme=vue-dark" alt="VikashPR Streak" /> 
+<img  width="450em" src="https://github-readme-streak-stats-fawn-three.vercel.app?user=vikashpr&theme=radical" alt="VikashPR Streak" /> 
 
 <img width="46%" src="metrics/pagespeed-detailed.svg"> 
 
