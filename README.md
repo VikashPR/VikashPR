@@ -29,7 +29,7 @@ I love turning that GitHub contribution graph ⬇️ more green 🟩 in my <del>
 
 ☞ 〔 👀 〕![](https://komarev.com/ghpvc/?username=vikashpr&color=dc143c)
 
-☞ 〔 🐼 〕SD - DevOps - AI
+☞ 〔 🐼 〕SD - Research - AI
 
 <br>
 
